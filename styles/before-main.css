@@ -64,10 +64,11 @@ p {
  *
  */
 a{
-  color: green
+  color: green;
+  text-decoration: underline;
 }
 a:hover{
-  text-decoration: none;
+  text-decoration: underline;
 }
 :focus {
   outline: 3px solid rgba(23, 171, 23, 0.8) !important;
