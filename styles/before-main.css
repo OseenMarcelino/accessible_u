@@ -78,7 +78,7 @@ a:hover{
  *
  */
 a:hover {
-  color:#666666;
+  color:#51EC75;
   text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ a:hover {
  *
  */
 a:hover, a:focus {
-  color: #666666;
+  color: #51EC75;
   text-decoration: none;
   outline: 2px solid green;
 }
