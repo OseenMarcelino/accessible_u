@@ -63,10 +63,16 @@ p {
  * Uses color alone to communicate "link"
  *
  */
-a {
-  color: #777777;
-	text-decoration: none;
+a{
+  color: green
 }
+a:hover{
+  text-decoration: none;
+}
+:focus {
+  outline: 3px solid rgba(23, 171, 23, 0.8) !important;
+}
+
 /*
  * Provide additional visual cues to mouse users only
  *
