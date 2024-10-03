@@ -71,9 +71,11 @@ a {
  * Provide additional visual cues to mouse users only
  *
  */
-a:hover {
-  color:#666666;
-  text-decoration: none;
+a:hover a:focus{
+  color:green;
+  text-decoration: underline;
+  outline: 2px green;
+  outline-offset: 2px;
 }
 
 /*
