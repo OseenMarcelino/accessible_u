@@ -71,11 +71,9 @@ a {
  * Provide additional visual cues to mouse users only
  *
  */
-a:hover a:focus{
-  color:green;
-  text-decoration: underline;
-  outline: 2px green;
-  outline-offset: 2px;
+a:hover {
+  color:#666666;
+  text-decoration: none;
 }
 
 /*
@@ -83,6 +81,6 @@ a:hover a:focus{
  *
  */
 a:hover, a:focus, input:focus {
-  outline: none;
+  outline: green;
   border-color: transparent;
 }
