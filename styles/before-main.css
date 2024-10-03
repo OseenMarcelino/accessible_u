@@ -54,7 +54,7 @@
   color: lightgreen
 }
 hr {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid lightgreen;
 }
 .social li {
   display: inline-block;
