@@ -45,13 +45,13 @@
   margin-bottom: 1rem;
   background: #f9f9f9;
 }
-.main-footer {
+ .main-footer {
   background: #333;
-  color: green
+  color: #fff;
 }
-.main-footer a{
+.main-footer a {
   background: #333;
-  color: #51EC75;
+  color: lightgreen
 }
 hr {
   border-bottom: 1px solid #999;
