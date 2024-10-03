@@ -49,6 +49,10 @@
   background: #333;
   color: green
 }
+.main-footer a{
+  background: #333;
+  color: #51EC75;
+}
 hr {
   border-bottom: 1px solid #999;
 }
