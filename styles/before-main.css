@@ -45,23 +45,6 @@
   margin-bottom: 1rem;
   background: #f9f9f9;
 }
- .main-footer {
-  background: #333;
-  color: #fff;
-}
-.main-footer a {
-  background: #333;
-  color: lightgreen
-}
-hr {
-  border-bottom: 1px solid lightgreen;
-}
-.social li {
-  display: inline-block;
-}
-p {
-  line-height: 1.3;
-}
 
 /*
  * Uses color alone to communicate "link"
@@ -83,7 +66,7 @@ a:hover{
  *
  */
 a:hover {
-  color:#51EC75;
+  /* color:#51EC75; */
   text-decoration: none;
 }
 
@@ -92,7 +75,7 @@ a:hover {
  *
  */
 a:hover, a:focus {
-  color: #51EC75;
+  /*color: #185927;*/
   text-decoration: none;
   outline: 2px solid green;
 }
@@ -103,4 +86,21 @@ input:focus {
 
 :focus{
   outline: 2px solid rgba(8, 151, 8, 0.8) !important;
+}
+.main-footer {
+  background: #333;
+  color: #fff;
+}
+.main-footer a {
+  background: #333;
+  color: lightgreen
+}
+hr {
+  border-bottom: 1px solid lightgreen;
+}
+.social li {
+  display: inline-block;
+}
+p {
+  line-height: 1.3;
 }
